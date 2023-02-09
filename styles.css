@@ -328,6 +328,9 @@ footer nav a:hover{
     .active a:hover{
         scale: 1.1;
     }
+     .no-title{
+        display: none;
+    }
     .header-btn{
         width: 7rem;
         font-family: "Fraunces", serif;
