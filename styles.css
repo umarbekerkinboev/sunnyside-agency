@@ -328,9 +328,6 @@ footer nav a:hover{
     .active a:hover{
         scale: 1.1;
     }
-     .no-title{
-        display: none;
-    }
     .header-btn{
         width: 7rem;
         font-family: "Fraunces", serif;
@@ -364,6 +361,9 @@ footer nav a:hover{
     }
     .arrow-down{
         scale: 1;
+    }
+    .no-title{
+        display: none;
     }
         /* ABOUT SECTION */
         .about{
